@@ -4,7 +4,7 @@ The project will use Unity and Vuforia to create an AR labyrinth game. The execu
 
 ## Basic Idea
 The idea is from an old game I have played called “Labyrinth 2” (https://apps.apple.com/us/app/labyrinth-2/id307758884). Labyrinth 2 is a game created by Illusion Labs on Dec.1, 2009. The game is supported for the iPod Touch, iPhone, and Android smartphones. The HD edition is also designed for the iPad. To beat the levels, the player needs to move the metal ball to the destination while avoiding other obstacles. The core of the game is based on the gravity sensor of the smart devices, combined with the gyroscope and accelerometer. This allows players to tilt the device to control the movement of the ball. In the era of smartphones, this game has brought a great impression to people and received many positive reviews.
-![IMG_2020](https://user-images.githubusercontent.com/72234409/160718461-707c5a0e-4ea1-4e7c-bcb5-44ce36c66bd1.jpg=400x600)
+![IMG_2020](https://user-images.githubusercontent.com/72234409/160718461-707c5a0e-4ea1-4e7c-bcb5-44ce36c66bd1.jpg =400x600)
 
 ## Reasons
 Since this remarkable game does not have an AR version, I think it would be fun to combine the AR component into the game. For the original version of the game, the entire game window can only fit on the screen of the smart device. If the game can be explored with AR technology, the size and the texture of the game components can be more realistic, which brings a more stereoscopic impression to the players. Besides, more ways to play are possible be found when combined with AR technology.
